@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Kedar
 
 <a href="https://twitter.com/kedar_alawekar">
-  <img align="left" alt="Kedar Alawekar | Twitter" width="30px" src="https://raw.githubusercontent.com/kedar09/kedar09/main/assets/twitter.svg" />
+  <img align="left" alt="Kedar Alawekar | Twitter" width="30px" src="https://raw.githubusercontent.com/kedar09/kedar09/main/assets/twitter.svg" title="Twitter" />
 </a>
 <!-- <a href="www.linkedin.com/in/kedar-alawekar">
   <img align="left" alt="Kedar Alawekar | LinkedIn" width="21px" src="https://raw.githubusercontent.com/kedar09/kedar09/main/assets/linkedin.svg" />
