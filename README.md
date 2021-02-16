@@ -1,12 +1,13 @@
-### Hi 👋, I'm Kedar
+<h2 align="center">Hi 👋, I'm Kedar</h2>
 
+<h4 align="left">Connect with me:</h4>
 <a href="https://twitter.com/kedar_alawekar">
   <img align="left" alt="Kedar Alawekar | Twitter" width="30px" src="https://raw.githubusercontent.com/kedar09/kedar09/main/assets/twitter.svg" title="Twitter" />
 </a>
 
-<!-- <a href="www.linkedin.com/in/kedar-alawekar">
-  <img align="left" alt="Kedar Alawekar | LinkedIn" width="21px" src="https://raw.githubusercontent.com/kedar09/kedar09/main/assets/linkedin.svg" />
-</a> -->
+<a href="www.linkedin.com/in/kedar-alawekar">
+  <img align="left" alt="Kedar Alawekar | LinkedIn" width="30px" src="https://raw.githubusercontent.com/kedar09/kedar09/main/assets/linkedin.svg" title="LinkedIn" />
+</a>
 
 <br />
 <br />
