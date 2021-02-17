@@ -12,7 +12,7 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning [Django](https://www.djangoproject.com/)
 - 💬 Ask me about [here](https://github.com/kedar09/kedar09/issues)
 - 👯 I’m looking to collaborate on [chat-app](https://github.com/kedar09/react-native-nodejs-socketio-chat)
 
