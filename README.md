@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Kedar</h2>
+<h2 align="center">Hi  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" />, I'm Kedar</h2>
 
 ### Connect with me:
 <a href="https://twitter.com/kedar_alawekar">
