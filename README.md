@@ -9,6 +9,10 @@
   <img alt="Kedar Alawekar | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://discord.com/users/kedar09">
+  <img alt="Kedar Alawekar | Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kedar.alawekar@gmail.com">
   <img alt="Kedar Alawekar | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
