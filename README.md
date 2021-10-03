@@ -29,6 +29,10 @@
 
 <br />
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kedar09&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedar09)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- <br /> -->
+
 ### Languages and Tools:
 
 <div style="display:flex;flex-direction:row">
