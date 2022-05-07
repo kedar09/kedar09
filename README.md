@@ -21,8 +21,8 @@
 
 ### About me:
 - 👨‍💻 All about me is at [My Website](https://kedar09-portfolio.netlify.app/)
-- 🌱 I’m currently learning anything related to React Native, React, Django
-- 🔭 I’m currently working on developing skills, javascript, python,
+- 🌱 I’m currently learning anything related to React Native, React.
+- 🔭 I’m currently working on developing skills, javascript, side projects, open source.
 - 💬 Ask me about [here](https://github.com/kedar09/kedar09/issues)
 <!--
 - 👯 I’m looking to collaborate on [chat-app](https://github.com/kedar09/react-native-nodejs-socketio-chat)
