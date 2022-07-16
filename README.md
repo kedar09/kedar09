@@ -20,7 +20,7 @@
 <br />
 
 ### About me:
-- 👨‍💻 All about me is at [My Website](https://kedar09-portfolio.netlify.app/)
+- 👨‍💻 All about me is at [My Website](https://kedar09.netlify.app/)
 - 🌱 I’m currently learning anything related to React Native, React.
 - 🔭 I’m currently working on developing skills, javascript, side projects, open source.
 - 💬 Ask me about [here](https://github.com/kedar09/kedar09/issues)
