@@ -1,7 +1,7 @@
 <h2 align="center">Hi  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" />, I'm Kedar</h2>
 
 ### Connect with me:
-<a href="https://x/kedar_alawekar">
+<a href="https://x.com/kedar_alawekar">
   <img alt="Kedar Alawekar | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 
