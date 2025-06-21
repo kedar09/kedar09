@@ -1,20 +1,16 @@
 <h2 align="center">Hi  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" />, I'm Kedar</h2>
 
 ### Connect with me:
-<a href="https://x.com/kedar_alawekar">
-  <img alt="Kedar Alawekar | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+<a href="https://x.com/kedar_alawekar" target="_blank">
+  <img alt="Twitter | Kedar Alawekar " src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/kedar-alawekar/">
-  <img alt="Kedar Alawekar | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=httpskedar@gmail.com" target="_blank">
+  <img alt="Gmail | Kedar Alawekar" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://discord.com/users/kedar09">
-  <img alt="Kedar Alawekar | Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kedar.alawekar@gmail.com">
-  <img alt="Kedar Alawekar | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/in/kedar-alawekar/" target="_blank">
+  <img alt="LinkedIn | Kedar Alawekar" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br />
