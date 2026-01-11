@@ -2,7 +2,7 @@
   <img src="https://github.com/kedar09/kedar09/blob/2255d917cfe25736001f24b95ca9cc0b33520098/assets/logo1.png" alt="Kedar banner" width="auto" height="320px" />
 </p>
 
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" />, I'm Kedar</h2>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" />, I'm Kedar</h1>
 
 ### Connect with me:
 <p>
@@ -19,10 +19,10 @@
 
 ### About me:
 <p style="display:flex; flex-direction:column; gap:20px;">
-  <p>- 👨‍💻 All about me is at <a href="https://kedar09.pages.dev/">My Website</a></p>
-  <p>- 🌱 I’m currently learning anything related to React Native, React.</p>
-  <p>- 🔭 I’m working on developing skills, JavaScript, side projects, open-source contributions.</p>
-  <p>- 💬 Ask me anything via <a href="https://github.com/kedar09/kedar09/issues">GitHub Issues</a>.</p>
+  <p>- 👨‍💻 Discover my work on <a href="https://kedar09.pages.dev/" target="_blank">My Portfolio</a>.</p>
+  <p>- 🌱 Focused on mastering technologies like React Native, React, GraphQL and Node.js.</p>
+  <p>- 🌟 Beyond development, I actively contribute to open-source projects and love mentoring new developers to help them grow in their careers.</p>
+  <p>- 💬 Reach out via <a href="https://github.com/kedar09/kedar09/issues" target="_blank">GitHub Issues</a> or connect through social links above.</p>
 </p>
 
 ---
